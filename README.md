@@ -57,7 +57,7 @@ FROM paciente p JOIN medico m ON p.medico_id = m.id;
 
 ```
 
-📝 Licença
+## 📝 Licença
 Este projeto está licenciado sob a MIT License.
 
 
