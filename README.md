@@ -1,2 +1,2 @@
 # AVN2-BDD-IFCE
-Neste repositório, se encontra a prova de Banco de Dados do curso Técnico em Informá
+Neste repositório, se encontra a prova de Banco de Dados do curso Técnico em Inform
