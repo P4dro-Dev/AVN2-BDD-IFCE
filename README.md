@@ -38,18 +38,25 @@ Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tab
 
 1. Copie todo o script SQL
 2. Execute no seu servidor MySQL:
+   
 ```bash
 mysql -u seu_usuario -p < script_hospital.sql
 📊 Exemplo de Consultas
 Pacientes do século XXI:
-
+```
+```
 sql
 SELECT * FROM paciente WHERE data_nascimento > '2000-01-01';
 Relação paciente-médico:
 
+```
+```
 sql
 SELECT p.nome, m.nome AS medico, m.especialidade
 FROM paciente p JOIN medico m ON p.medico_id = m.id;
+
+```
+
 📝 Licença
 Este projeto está licenciado sob a MIT License.
 
