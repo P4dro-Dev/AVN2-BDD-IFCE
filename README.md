@@ -22,7 +22,7 @@ Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tab
 | medico_id      | INT          | Chave estrangeira para médico |
 | sexo           | CHAR(1)      | Sexo do paciente (opcional)   |
 
-## ⚙️ Funcionalidades Implementadas
+## ⚙️| Funcionalidades Implementadas
 
 1. Criação do banco de dados e tabelas
 2. Inserção de dados de exemplo
