@@ -34,7 +34,7 @@ Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tab
    - Filtros por data
    - JOIN entre tabelas
 
-## 🛠️ Como Executar
+##  Como Executar
 
 1. Copie todo o script SQL
 2. Execute no seu servidor MySQL:
