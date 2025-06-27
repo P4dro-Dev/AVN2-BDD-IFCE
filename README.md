@@ -1,2 +1,2 @@
 # AVN2-BDD-IFCE
-Neste repositório, se encontra a prova de Banco de Dados do curs
+Neste repositório, se encontra a prova de Banco de Dados do cur
