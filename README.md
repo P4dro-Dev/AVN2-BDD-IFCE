@@ -2,7 +2,7 @@
  
 Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tabelas de médicos e pacientes, seguindo os requisitos de uma avaliação acadêmica.         
   
-## 📋| Estrutura do Banco de Dados
+## 📋| Estrutura do Banco de Dados 
 
 ### Tabelas Principais 
 
