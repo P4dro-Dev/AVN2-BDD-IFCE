@@ -6,7 +6,7 @@ Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tab
 
 ### Tabelas Principais
 
-#### `medico`
+#### `medico` 
 | Coluna       | Tipo         | Descrição                     |
 |--------------|--------------|-------------------------------|
 | id           | INT          | Chave primária autoincrementada |
