@@ -7,7 +7,7 @@ Este projeto implementa um banco de dados MySQL para gestão hospitalar, com tab
 ### Tabelas Principais
 
 #### `medico`  
-| Coluna       | Tipo         | Descrição                     |
+| Coluna       | Tipo         | Descrição                     | 
 |--------------|--------------|-------------------------------| 
 | id           | INT          | Chave primária autoincrementada |  
 | nome         | VARCHAR(100) | Nome completo do médico       | 
